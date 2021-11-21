@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pavle/CLionProjects/Vezba/Lab2_Vezba2/Biblioteka.h
+iostream
+-
+array
+-
+iostream
+-
+Knjiga.h
+C:/Users/Pavle/CLionProjects/Vezba/Lab2_Vezba2/Knjiga.h
+
+C:/Users/Pavle/CLionProjects/Vezba/Lab2_Vezba2/Knjiga.h
+iostream
+-
+
+C:/Users/Pavle/CLionProjects/Vezba/Lab2_Vezba2/main.cpp
+iostream
+-
+Knjiga.h
+C:/Users/Pavle/CLionProjects/Vezba/Lab2_Vezba2/Knjiga.h
+Biblioteka.h
+C:/Users/Pavle/CLionProjects/Vezba/Lab2_Vezba2/Biblioteka.h
+
